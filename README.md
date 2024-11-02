@@ -33,6 +33,9 @@ Task 7️⃣: Describe what tasks were completed, what screenshots correspond to
 
 Task 8️⃣: Make a pull request, write first name, last name and group in the request title.
  
+1) added a branch called Rim and made 3 commits there
+2) merged/rebased the branches and added a screehshot of the terminal
+3) answered the questions in just-branch in the questions file
 
 
 
